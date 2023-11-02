@@ -1,0 +1,29 @@
+C:\Users\trant\OneDrive\Pictures\1651\New folder\Asm2_1651\Asm2_1651\obj\Debug\net6.0\Asm2_1651.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trant\OneDrive\Pictures\1651\New folder\Asm2_1651\Asm2_1651\obj\Debug\net6.0\Asm2_1651.AssemblyInfoInputs.cache
+C:\Users\trant\OneDrive\Pictures\1651\New folder\Asm2_1651\Asm2_1651\obj\Debug\net6.0\Asm2_1651.AssemblyInfo.cs
+C:\Users\trant\OneDrive\Pictures\1651\New folder\Asm2_1651\Asm2_1651\obj\Debug\net6.0\Asm2_1651.csproj.CoreCompileInputs.cache
+C:\Users\trant\OneDrive\Pictures\1651\New folder\Asm2_1651\Asm2_1651\bin\Debug\net6.0\Asm2_1651.exe
+C:\Users\trant\OneDrive\Pictures\1651\New folder\Asm2_1651\Asm2_1651\bin\Debug\net6.0\Asm2_1651.deps.json
+C:\Users\trant\OneDrive\Pictures\1651\New folder\Asm2_1651\Asm2_1651\bin\Debug\net6.0\Asm2_1651.runtimeconfig.json
+C:\Users\trant\OneDrive\Pictures\1651\New folder\Asm2_1651\Asm2_1651\bin\Debug\net6.0\Asm2_1651.dll
+C:\Users\trant\OneDrive\Pictures\1651\New folder\Asm2_1651\Asm2_1651\bin\Debug\net6.0\Asm2_1651.pdb
+C:\Users\trant\OneDrive\Pictures\1651\New folder\Asm2_1651\Asm2_1651\obj\Debug\net6.0\Asm2_1651.dll
+C:\Users\trant\OneDrive\Pictures\1651\New folder\Asm2_1651\Asm2_1651\obj\Debug\net6.0\refint\Asm2_1651.dll
+C:\Users\trant\OneDrive\Pictures\1651\New folder\Asm2_1651\Asm2_1651\obj\Debug\net6.0\Asm2_1651.pdb
+C:\Users\trant\OneDrive\Pictures\1651\New folder\Asm2_1651\Asm2_1651\obj\Debug\net6.0\Asm2_1651.genruntimeconfig.cache
+C:\Users\trant\OneDrive\Pictures\1651\New folder\Asm2_1651\Asm2_1651\obj\Debug\net6.0\ref\Asm2_1651.dll
+D:\FullA2\Asm2_1651\Asm2_1651\Asm2_1651\bin\Debug\net6.0\Asm2_1651.exe
+D:\FullA2\Asm2_1651\Asm2_1651\Asm2_1651\bin\Debug\net6.0\Asm2_1651.deps.json
+D:\FullA2\Asm2_1651\Asm2_1651\Asm2_1651\bin\Debug\net6.0\Asm2_1651.runtimeconfig.json
+D:\FullA2\Asm2_1651\Asm2_1651\Asm2_1651\bin\Debug\net6.0\Asm2_1651.dll
+D:\FullA2\Asm2_1651\Asm2_1651\Asm2_1651\bin\Debug\net6.0\Asm2_1651.pdb
+D:\FullA2\Asm2_1651\Asm2_1651\Asm2_1651\obj\Debug\net6.0\Asm2_1651.csproj.AssemblyReference.cache
+D:\FullA2\Asm2_1651\Asm2_1651\Asm2_1651\obj\Debug\net6.0\Asm2_1651.GeneratedMSBuildEditorConfig.editorconfig
+D:\FullA2\Asm2_1651\Asm2_1651\Asm2_1651\obj\Debug\net6.0\Asm2_1651.AssemblyInfoInputs.cache
+D:\FullA2\Asm2_1651\Asm2_1651\Asm2_1651\obj\Debug\net6.0\Asm2_1651.AssemblyInfo.cs
+D:\FullA2\Asm2_1651\Asm2_1651\Asm2_1651\obj\Debug\net6.0\Asm2_1651.csproj.CoreCompileInputs.cache
+D:\FullA2\Asm2_1651\Asm2_1651\Asm2_1651\obj\Debug\net6.0\Asm2_1651.dll
+D:\FullA2\Asm2_1651\Asm2_1651\Asm2_1651\obj\Debug\net6.0\refint\Asm2_1651.dll
+D:\FullA2\Asm2_1651\Asm2_1651\Asm2_1651\obj\Debug\net6.0\Asm2_1651.pdb
+D:\FullA2\Asm2_1651\Asm2_1651\Asm2_1651\obj\Debug\net6.0\Asm2_1651.genruntimeconfig.cache
+D:\FullA2\Asm2_1651\Asm2_1651\Asm2_1651\obj\Debug\net6.0\ref\Asm2_1651.dll
